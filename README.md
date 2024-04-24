@@ -1,5 +1,5 @@
 ### Kailiang (Bill) Zhu
-#### <p align="center"> Software Engineer + Designer == Game Develpoer? </p>
+#### <p align="center"> Software Engineer </p>
 <br/>
 <br/>
 ### About me:
