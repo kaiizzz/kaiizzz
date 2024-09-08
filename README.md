@@ -1,12 +1,15 @@
 ### Kailiang (Bill) Zhu
 #### <p align="center"> Software Engineer </p>
+
 <br/>
 <br/>
+
 ### About me:
 
 I am a Software Engineer student at the University of Melbourne. I'm passionate about creating industry grade software. I'm interested in creating video games, and I'm very passionate about design.
 
 ### Projects
+
 Here are some Projects I'm working on:
 <br/>
 [Art Therapy App](https://github.com/SWEN90009-2024/AT-BlueRing) Art Therapy app project 
