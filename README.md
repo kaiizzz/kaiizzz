@@ -19,6 +19,7 @@ Here are some Projects I'm working on:
 
 
 Here are some projects I've worked on:
+
 <br/>
 [Code Buddy](https://code-buddy-website-project.vercel.app/) AI coding helper. (API not functional)
 <br/>
