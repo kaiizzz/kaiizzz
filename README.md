@@ -12,9 +12,10 @@ I am a Software Engineering student and tutor at the University of Melbourne. I'
 ### Projects
 
 Here are some Projects I'm working on:
-
 <br/>
+
 [Block Chain Simulation](https://github.com/kaiizzz/BabyBlockchain) Self study into cryptocurrency.
+
 <br/>
 
 
